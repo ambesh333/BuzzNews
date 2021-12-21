@@ -22,10 +22,6 @@ export class NewsItem extends Component {
           <div className="card-body">
             <h5 className="card-title">
               {title}
-              <h3>
-                Example heading{" "}
-              
-              </h3>
             </h5>
             <p className="card-text">{description}</p>
             <p className="card-text">
